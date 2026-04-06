@@ -47,6 +47,20 @@ Just ask Claude naturally:
 - "I need banners for LinkedIn and Twitter — minimal, text-free, dark blue tones"
 - "Design a YouTube channel banner for my AI engineering channel"
 
+## Examples
+
+| Celestial | Gradient |
+|:-:|:-:|
+| ![Celestial](examples/showcase_celestial.png) | ![Gradient](examples/showcase_gradient.png) |
+
+| Minimal | Editorial |
+|:-:|:-:|
+| ![Minimal](examples/showcase_minimal.png) | ![Editorial](examples/showcase_editorial.png) |
+
+| Brutalist |
+|:-:|
+| ![Brutalist](examples/showcase_brutalist.png) |
+
 ## Author
 
 Joe Fullerton — [LinkedIn](https://linkedin.com/in/joe-fullerton-4a3a41142) · [GitHub](https://github.com/jmfullerton96)
