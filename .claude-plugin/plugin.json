@@ -1,0 +1,9 @@
+{
+  "name": "social-banner",
+  "description": "Generate professional banner and header images for social media profiles. Supports LinkedIn, X/Twitter, YouTube, and Facebook with a design-first workflow and multi-platform export.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joe Fullerton",
+    "email": "joe.fullerton18@gmail.com"
+  }
+}
